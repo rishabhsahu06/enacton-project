@@ -1,0 +1,13 @@
+
+.store-filter-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  flex-wrap: wrap;
+}
+
+.store-filter-container select {
+  padding: 0.5rem;
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}

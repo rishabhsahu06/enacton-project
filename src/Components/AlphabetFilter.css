@@ -1,0 +1,27 @@
+.alphabet-filter {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px 0;
+  }
+  
+  .alphabet-button {
+    border: none;
+    background-color: #f0f0f0;
+    margin: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.2s;
+  }
+  
+  .alphabet-button:hover {
+    background-color: #ddd;
+  }
+  
+  .alphabet-button:focus {
+    outline: none;
+    background-color: #007bff;
+    color: white;
+  }
+  
